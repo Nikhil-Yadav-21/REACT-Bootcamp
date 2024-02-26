@@ -1,0 +1,18 @@
+Introduction :
+
+We linked the React and ReactDOM files using CDN.
+Created a Hello World using React.createElement() and it works
+
+But this is not a production ready application. We need a lot of things like :
+
+Server
+Minification
+Bundling
+Image Optimization
+Tree Shaking
+Caching
+A lot of other optimization
+
+To acheive all of this, we need a lot of Packages/Dependicies. 
+In order to manage these Packages, we need to use a package manager - npm
+To use npm, we have to initialize our project with Node. 
